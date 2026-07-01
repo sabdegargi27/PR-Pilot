@@ -165,7 +165,7 @@ ai-code-reviewer/
 ### 1. Clone and configure
 
 ```bash
-git clone git@github.com:Prabodh2709/pr-pilot.git
+git clone git@github.com:sabdegargi27/pr-pilot.git
 cd pr-pilot/ai-code-reviewer
 cp .env.example .env
 # Edit .env and fill in your secrets
